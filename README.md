@@ -1,3 +1,5 @@
+[![CI Status](https://github.com/la-moche/hexlet-ci-app/workflows/CI%20Pipeline/badge.svg)](https://github.com/la-moche/hexlet-ci-app/actions)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
